@@ -2,7 +2,7 @@
 
 ## Clone the repository
 ```
-https://github.com/johanP051/Mypage.git
+git clone https://github.com/johanP051/Mypage.git
 ```
 
 ## Needed programs:
